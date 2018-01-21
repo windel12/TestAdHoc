@@ -10,6 +10,7 @@ namespace TestGithub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("@222222");
         }
     }
 }
